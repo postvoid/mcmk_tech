@@ -34,8 +34,8 @@
 
 ```bash
 # Клонирование репозитория
-git clone <repository-url>
-cd mcmk-notification-service
+git clone https://github.com/postvoid/mcmk_tech.git
+cd mcmk_tech
 
 # Настройка окружения
 cp .env.example .env
